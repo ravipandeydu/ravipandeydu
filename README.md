@@ -45,9 +45,9 @@
 <br>
   <br>
   
-[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravipandeydu&theme=tokyonight)](https://git.io/praveenscience)
+[![Ravishankar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ravipandeydu0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=ravipandeydu&show_icons=true&theme=tokyonight) | ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravipandeydu&theme=tokyonight) |
+| ![Ravishankar's github stats](https://github-readme-stats.vercel.app/api?username=ravipandeydu&show_icons=true&theme=tokyonight) | ![Ravishankar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravipandeydu&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravipandeydu&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
