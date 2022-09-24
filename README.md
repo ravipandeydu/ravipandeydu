@@ -1,8 +1,4 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-  <div size='40px'> Hi! My name is <span style="color:blue;font-weight:bold">blue</span>. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
  Hi! My name is **`Ravishankar`**. Thank You for taking the time to view my GitHub Profile :smile:
 
