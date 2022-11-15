@@ -17,7 +17,7 @@
 
 - 💞️ I like to watch tech. videos and reading books.
 
-- 💬 Have a look at my ![portfolio](https://ravipandeydu.github.io/) <a href="https://ravipandeydu.github.io/" target="_blank">portfolio</a>.
+- 💬 Have a look at my [portfolio](https://ravipandeydu.github.io/) <a href="https://ravipandeydu.github.io/" target="_blank">portfolio</a>.
 
 - 🧧 Check my <a href="https://drive.google.com/file/d/15ydyWg4-Rcr7yE6uZhASpmS6gzNs0GpK/view?usp=sharing" target="_blank">resume</a>.
 
