@@ -17,9 +17,9 @@
 
 - 💞️ I like to watch tech. videos and reading books.
 
-- 💬 Have a look at my [portfolio](https://ravipandeydu.github.io/).
+- 💬 Have a look at my <a href="https://ravipandeydu.github.io/" target="_blank">portfolio</a>.
 
-- 💬 Have a look at my [resume](https://drive.google.com/file/d/15ydyWg4-Rcr7yE6uZhASpmS6gzNs0GpK/view?usp=sharing).
+- 🧧 Check my <a href="https://drive.google.com/file/d/15ydyWg4-Rcr7yE6uZhASpmS6gzNs0GpK/view?usp=sharing" target="_blank">resume</a>.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://github.com/ravipandeydu?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
